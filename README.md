@@ -36,9 +36,6 @@ The Lexer implementation is written completely using JFlex (see [Lexer.flex](htt
 ##### Syntax Analysis
 The Parser implementation is written completely using JavaCup (see [Parser.cup](https://github.com/mrhappyasthma/MiniJava-Compiler/blob/master/Parser.cup)).  You can read more about JavaCup here: http://www2.cs.tum.edu/projects/cup/manual.html
 
-The Grammar for MiniJava as defined by The MiniJava Project can be seen below (http://www.cambridge.org/us/features/052182060X/grammar.html):
-
-![MiniJava Grammar](http://i.imgur.com/XazQEp9.jpg)
 
 
 ##### Symantic Analysis
