@@ -20,7 +20,7 @@ Ndryshe mund te kryejme ekzekutim manual:
 ```
 java -cp ./tools/java-cup-11a.jar:. MiniJavaCompiler samplesFileQeDoTeEkzekutohet.java
 ```
-- Windows 
+- Windows:
 ```
 java -cp ./tools/java-cup-11a.jar;. MiniJavaCompiler samplesFileQeDoTeEkzekutohet.java
 ```
