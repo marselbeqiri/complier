@@ -1,3 +1,7 @@
+#Mark Klara
+#mak241@pitt.edu
+#CS1622 - Project 3
+#Makefile
 all:
 	java -jar tools/jflex-1.6.0.jar Lexer.flex
 	java -jar tools/java-cup-11a.jar -interface -parser Parser Parser.cup
@@ -20,5 +24,6 @@ cleanOutput:
 clear:
 	clear
 run:
-	java -cp ./tools/java-cup-11a.jar:. MiniJavaCompiler samples/$(file)
-
+	java -cp ./tools/java-cup-11a.jar;. MiniJavaCompiler samples/$(file)
+runMars:
+	java -jar tools/Mars4_5.jar samples/$(file) 

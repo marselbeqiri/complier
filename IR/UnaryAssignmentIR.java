@@ -1,3 +1,8 @@
+//Mark Klara
+//mak241@pitt.edu
+//Project 3
+//UnaryAssignmentIR.java
+
 package IR;
 
 public class UnaryAssignmentIR extends Quadruple

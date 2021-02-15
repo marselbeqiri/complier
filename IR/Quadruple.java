@@ -1,3 +1,8 @@
+//Mark Klara
+//mak241@pitt.edu
+//Project 3
+//Quadruple.java
+
 package IR;
 
 public abstract class Quadruple

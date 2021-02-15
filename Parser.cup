@@ -1,3 +1,6 @@
+//Mark Klara
+//mak241@pitt.edu
+//CS 1622 - Project 3
 /* Parser.cup */
 
 import java_cup.runtime.*;
@@ -55,11 +58,6 @@ precedence right EXCLAMATION;
 precedence left PERIOD, LEFTBRACKET, RIGHTBRACKET, LEFTPAREN, RIGHTPAREN;
 
 /* Start Symbol */
-PROG ::= prog_ok {: System.out.println("Programi ok:)"); :};
-
-prog_ok ::= program
-;
-
 start with program;
 
 program ::= mainClass:mc classDeclarationChain:cdc

@@ -1,3 +1,8 @@
+//Mark Klara
+//mak241@pitt.edu
+//CS 1622
+//Helper.java
+
 package helper;
 
 import java.util.List;

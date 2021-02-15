@@ -1,3 +1,8 @@
+//Mark Klara
+//mak241@pitt.edu
+//Project 3
+//CopyIR.java
+
 package IR;
 
 public class CopyIR extends Quadruple

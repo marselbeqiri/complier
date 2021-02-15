@@ -1,3 +1,8 @@
+//Mark Klara
+//mak241@pitt.edu
+//Project 3
+//IndexedAssignmentIR1.java
+
 package IR;
 
 public class IndexedAssignmentIR1 extends Quadruple

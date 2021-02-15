@@ -1,3 +1,8 @@
+//Mark Klara
+//mak241@pitt.edu
+//Project 3
+//ConditionalJumpIR.java
+
 package IR;
 
 public class ConditionalJumpIR extends Quadruple

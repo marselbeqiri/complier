@@ -1,3 +1,8 @@
+//Mark Klara
+//mak241@pitt.edu
+//Project 3
+//AssignmentIR.java
+
 package IR;
 
 public class AssignmentIR extends Quadruple

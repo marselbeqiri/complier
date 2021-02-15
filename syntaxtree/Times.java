@@ -1,3 +1,8 @@
+//Modified by:  Mark Klara
+//mak241@pitt.edu
+//Project 3
+//Times.java
+
 package syntaxtree;
 import visitor.Visitor;
 import visitor.TypeVisitor;

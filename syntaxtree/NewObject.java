@@ -1,3 +1,8 @@
+//Modified by:  Mark Klara
+//mak241@pitt.edu
+//Project 3
+//NewObject.java
+
 package syntaxtree;
 import visitor.Visitor;
 import visitor.TypeVisitor;

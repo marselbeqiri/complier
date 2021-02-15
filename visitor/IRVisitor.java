@@ -1,3 +1,8 @@
+//Mark Klara
+//mak241@pitt.edu
+//CS 1622 - Project 3
+//IRVisitor.java
+
 package visitor;
 
 import java.util.List;

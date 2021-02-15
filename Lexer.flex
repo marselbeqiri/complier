@@ -1,10 +1,12 @@
+//Mark Klara
+//mak241@pitt.edu
+//CS 1622 - Project 3
+/* Lexer.flex */
+
 /* Part 1 - User code (the text up to the first %% is copied verbatim to the top of the generated lexer class) */
 import java.util.*;
 import java_cup.runtime.*;
 import helper.*;
-
-
-
 %% 
 /* Part 2 - Options and Declarations (consists of code included in the scanner class, lexial states, and macros) */
 %class Lexer
@@ -12,7 +14,6 @@ import helper.*;
 %column
 %implements sym
 %cup
-
 
 LineTerminator 				= \r|\n|\r\n
 InputCharacter 				= [^\r\n]
@@ -85,11 +86,8 @@ Identifier 					= [a-zA-Z_][a-zA-Z0-9_]*
 	
 	/* whitespace */
 	{WhiteSpace}                   { /* ignore */ }
-	
-	
 }
 
 /* error fallback */
 [^]                              { throw new Error("Illegal character <"+
                                                     yytext()+">"); }
-									

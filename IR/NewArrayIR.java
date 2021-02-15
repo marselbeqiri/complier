@@ -1,3 +1,8 @@
+//Mark Klara
+//mak241@pitt.edu
+//Project 3
+//NewArrayIR.java
+
 package IR;
 
 public class NewArrayIR extends Quadruple

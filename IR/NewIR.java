@@ -1,3 +1,7 @@
+//Mark Klara
+//mak241@pitt.edu
+//Project 3
+//NewIR.java
 
 package IR;
 

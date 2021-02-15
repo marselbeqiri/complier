@@ -1,3 +1,8 @@
+//Mark Klara
+//mak241@pitt.edu
+//CS 1622 - Project 3
+//MiniJavaCompiler.java
+
 import java_cup.runtime.*;
 import java.io.*;
 import syntaxtree.*;
@@ -137,7 +142,9 @@ public class MiniJavaCompiler
 		}
 		catch (Exception e)
 		{
-			e.printStackTrace(System.err);
+						System.err.println("Unable tssss: " + e);
+
+			//e.printStackTrace(System.err);
 		}
 	}
 }
