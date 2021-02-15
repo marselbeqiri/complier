@@ -4,7 +4,7 @@ Ne pathin e projektit hapni terminalin dhe ekzekutoni:
 ```
 make
 ```
-###### Per te ekzekutuar komanden 'make' duhet qe paraprakisht te kemi te instaluar "Make: GNU make" 
+###### Per te ekzekutuar komanden 'make' duhet qe paraprakisht te kemi te instaluar "Make: GNU make" ( shko tek 'C:\Program Files (x86)\GnuWin32\bin' kopjoji te gjitha filet dhe beji paste ne projektin tend)
 #
 ### Ekzekutimi:
 
