@@ -18,11 +18,11 @@ Ndryshe mund te kryejme ekzekutim manual:
 - Linux: 
 
 ```
-java -cp ./tools/java-cup-11a.jar:. MiniJavaCompiler samplesFileQeDoTeEkzekutohet.java
+java -cp ./tools/java-cup-11a.jar:. MiniJavaCompiler samples\FileQeDoTeEkzekutohet.java
 ```
 - Windows:
 ```
-java -cp ./tools/java-cup-11a.jar;. MiniJavaCompiler samplesFileQeDoTeEkzekutohet.java
+java -cp ./tools/java-cup-11a.jar;. MiniJavaCompiler samples\FileQeDoTeEkzekutohet.java
 ```
 #
 ### Ekzekuto OutPut:
